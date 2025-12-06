@@ -34,7 +34,7 @@ Check out some of my favorite work:
 ## 📫 Let's Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/gitansh-shekhar-39419721a/
-- **Portfolio:** Under Construction
+- **Portfolio:** https://gitansh-shekhar.github.io/
 - **Email:** [gitanshshekhar2541@gmail.com]
 - **Twiter:** https://x.com/she71875
 
