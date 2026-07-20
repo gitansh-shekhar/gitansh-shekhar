@@ -1,204 +1,175 @@
 <h1 align="center">Hi 👋, I'm Gitansh Shekhar</h1>
-<h3 align="center">Java Backend Developer | Competitive Programmer | Spring Boot Enthusiast</h3>
+
+<h3 align="center">
+Java Backend Developer • Competitive Programmer • Spring Boot Enthusiast
+</h3>
 
 <p align="center">
-  <a href="https://github.com/gitansh-shekhar">
-    <img src="https://komarev.com/ghpvc/?username=gitansh-shekhar&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+Building scalable backend applications while solving algorithms one problem at a time.
 </p>
 
----
-
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=1000&center=true&vCenter=true&width=800&lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Competitive+Programmer;1400%2B+DSA+Problems+Solved;Always+Learning+New+Things" />
+</p>
 ## 🚀 About Me
 
-🎓 B.Tech CSE Student at **KIET Group of Institutions** (2023–2027)
+🎓 B.Tech in Computer Science & Engineering at KIET Group of Institutions
 
-💻 Passionate about building scalable backend applications using **Java & Spring Boot**
+💻 Passionate about Java Backend Development and building scalable applications.
 
 🌱 Currently learning
+
 - Spring Security
 - Microservices
 - Docker
-- Low Level Design (LLD)
+- Low-Level Design
 
-🎯 Interested in
-- Software Development Engineer (SDE)
-- Backend Engineering
-- Full Stack Development
+🎯 Looking for
+
+- Software Development Engineer (SDE) roles
+- Backend Development Internships
+- Open Source Contributions
 
 ⚡ Fun Fact
 
-I enjoy solving challenging algorithmic problems almost every day.
-
----
-
-## 💼 Experience
-
-### 🧑‍🏫 Teaching Assistant — Vedam School of Technology
-**March 2026 – Present**
-
-- Mentoring students in DSA & Competitive Programming
-- Solving coding doubts and improving problem-solving skills
-- Helping students strengthen Java fundamentals
-
-### 🚀 DSA/CP Lead — DevUp Coding Club
-
-- Mentored 50+ juniors
-- Organized coding contests and workshops
-- Promoted competitive programming culture
-
----
+I enjoy solving algorithmic problems every day and mentoring students in DSA.
 
 ## 🛠 Tech Stack
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript" />
+
+</p>
 
 ### Backend
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=springboot)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-brightgreen?style=for-the-badge)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-success?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-brown?style=for-the-badge&logo=hibernate)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,maven" />
+
+</p>
 
 ### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+
+</p>
 
 ### Frontend
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind" />
+
+</p>
 
 ### Tools
 
-Git • GitHub • Maven • IntelliJ IDEA • VS Code • Postman
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
 
-# 🏆 Competitive Programming
+</p>
+
+## 🏆 Competitive Programming
 
 | Platform | Achievement |
 |----------|-------------|
-| 🟠 LeetCode | **1400+ Problems • Knight • Max Rating 2005** |
-| 🟤 CodeChef | **400+ Problems • 3★ • Max Rating 1610** |
-| 🔵 Codeforces | **500+ Problems • Pupil • Max Rating 1398** |
+| 🟠 LeetCode | **1400+ Problems • Knight • Rating 2005** |
+| 🟤 CodeChef | **400+ Problems • 3★ • Rating 1610** |
+| 🔵 Codeforces | **500+ Problems • Pupil • Rating 1398** |
 
 ### Highlights
 
-🏅 Global Rank **771** in LeetCode Biweekly Contest 186
+🥇 Global Rank **771** in LeetCode Biweekly Contest 186
 
-🥇 Winner of **3 consecutive department-level CodeChef contests**
+🏆 Winner of **3 consecutive CodeChef department contests**
 
 🌍 Global Rank under **500** in CodeChef Starters
 
+## 💼 Experience
+
+### Teaching Assistant — Vedam School of Technology
+
+- Mentoring students in DSA & Competitive Programming
+- Solving coding doubts
+- Teaching Java fundamentals
+
+### DSA/CP Lead — DevUp Coding Club
+
+- Mentored 50+ students
+- Organized coding contests
+- Conducted workshops
+
+## 🚀 Featured Projects
+
+### 🌐 Portfolio Website
+
+Personal portfolio showcasing my projects, coding profiles and achievements.
+
+**Tech**
+
+`HTML` `Tailwind CSS` `JavaScript`
+
+🔗 Live
+
+https://gitansh-shekhar.github.io/
+
 ---
 
-# 🚀 Featured Projects
+### 🌦 Weather App
 
-## 🌐 Portfolio Website
-
-Personal portfolio showcasing projects, coding profiles, achievements and technical skills.
-
-**Tech Stack**
-
-- HTML
-- Tailwind CSS
-- JavaScript
-
-🔗 https://gitansh-shekhar.github.io/
-
----
-
-## 🌦 Weather App
-
-A responsive weather application that fetches real-time weather using the OpenWeather API.
+Real-time weather application powered by OpenWeather API.
 
 **Features**
 
 - Live Weather
 - Responsive UI
-- Dynamic Backgrounds
-- Fetch API
+- Dynamic Background
 
-Repository:
+Repository
+
 https://github.com/gitansh-shekhar/Weather_App
 
----
+## 📈 GitHub Contribution Graph
 
-# 📈 GitHub Stats
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=gitansh-shekhar&theme=tokyo-night)](https://github.com/gitansh-shekhar)
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gitansh-shekhar&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitansh-shekhar&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=gitansh-shekhar&theme=tokyonight"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gitansh-shekhar&theme=onedark&margin-w=10"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 📧 Email
-> gitanshshekhar2541@gmail.com
+
+gitanshshekhar2541@gmail.com
 
 💼 LinkedIn
 
-https://www.linkedin.com/in/gitansh-shekhar-39419721a/
+https://linkedin.com/in/gitansh-shekhar-39419721a
 
 🌐 Portfolio
 
 https://gitansh-shekhar.github.io/
 
-🐦 Twitter/X
+🐦 Twitter
 
 https://x.com/she71875
 
 ---
 
-# 💡 Currently Working On
+<p align="center">
 
-- Spring Boot Projects
-- REST APIs
-- Spring Security
-- Microservices
-- Low Level Design
-- Open Source Contributions
+⭐ If you like my work, consider starring my repositories!
 
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+</p>
 
 <p align="center">
-Let's connect and build something amazing together 🚀
+
+Thanks for visiting my profile ❤️
+
+Happy Coding 🚀
+
 </p>
